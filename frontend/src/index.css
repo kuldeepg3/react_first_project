@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover\:scale-up-and-fade:hover{
+    transform: scale(1.03);
+    transition: transform 0.25s ease-in-out, opacity 0.3s ease-in-out;
+}

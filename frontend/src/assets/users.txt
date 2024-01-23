@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "KuldeepPatel",
+      "email": "kuldeeppatel@example.com",
+      "age": 21,
+      "location": "India",
+      "interests": ["web development", "programming", "cybersecurity"],
+      "registered_at": "2023-01-15"
+    },
+    {
+      "id": 2,
+      "username": "Coder123",
+      "email": "coder123@example.com",
+      "age": 25,
+      "location": "United States",
+      "interests": ["JavaScript", "React", "backend development"],
+      "registered_at": "2023-02-20"
+    },
+    {
+      "id": 3,
+      "username": "TechEnthusiast",
+      "email": "techenthusiast@example.com",
+      "age": 23,
+      "location": "Canada",
+      "interests": ["technology trends", "AI", "data science"],
+      "registered_at": "2023-03-10"
+    },
+    {
+      "id": 4,
+      "username": "WebDesigner",
+      "email": "webdesigner@example.com",
+      "age": 28,
+      "location": "Australia",
+      "interests": ["UI/UX design", "frontend development", "graphic design"],
+      "registered_at": "2023-04-05"
+    },
+    {
+      "id": 5,
+      "username": "SecurityGeek",
+      "email": "securitygeek@example.com",
+      "age": 24,
+      "location": "Germany",
+      "interests": ["cybersecurity", "ethical hacking", "network security"],
+      "registered_at": "2023-05-12"
+    },
+    {
+      "id": 6,
+      "username": "DataExplorer",
+      "email": "dataexplorer@example.com",
+      "age": 22,
+      "location": "France",
+      "interests": ["data analysis", "machine learning", "big data"],
+      "registered_at": "2023-06-18"
+    }
+  ]
+}
