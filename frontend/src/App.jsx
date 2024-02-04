@@ -20,6 +20,7 @@ import Post from "./components/[Post]";
 
 const Layout=()=>{
   return (<>
+  
   <NavBar/>
   <Outlet/>
   <Footer/>
@@ -80,10 +81,14 @@ function App() {
       },2000);    
    
   }, []);
+ 
+ 
+
 
   return (    
          <>
-        <div className="app">
+        <div className="app relative bg-slate-900">
+         
            {isLoding?(<Skeleton/>):(
           <div className="container mx-auto bg-slate-900 p-2 ">
           <RouterProvider router={router}/>
